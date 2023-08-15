@@ -10,4 +10,4 @@ route:
 receivers:
 - name: 'webhooks'
   webhook_configs:
-  - url: 'http://eda-controller:5050/prometheus'
+  - url: 'http://edacontroller.sandbox2979.opentlc.com:5050/prometheus'
